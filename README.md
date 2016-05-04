@@ -5,6 +5,8 @@ This program brute-forces a solution to the Travelling Salesman Problem (given x
 
 Random7.tsp is a sample input file. It gives 7 sets of coordinates of points to be visited.
 
+calcs.py contains the necessary calculations. main_tsp.py is the main file.
+
 Using more than 10 sets of coordinates is not advised, as the computational complexity of the problem explodes around that point.
 
 Dependencies:
